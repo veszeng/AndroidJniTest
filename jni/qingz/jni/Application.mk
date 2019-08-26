@@ -1,0 +1,1 @@
+APP_MODULES:=static_mnpc_sqe
